@@ -1,0 +1,87 @@
+ * {
+        margin: 0px;
+        padding: 0px;
+    }
+    h1{ 
+        color: black; 
+        font-family: verdana;
+        margin-right: 50px;
+    }
+    article img{
+        width: 300px;
+        height: 128px;
+        margin-right: 200px;
+    }
+    header{
+        width:1520px;
+        height:300px;
+        background:rgb(43, 226, 125);
+    }
+    article{
+        width:1520px;
+        height:400px;
+        background:rgb(58, 2, 14);
+        margin-right: 150px;
+        margin-top: 10px;
+        color: white;
+    }
+    ul{ 
+        font-family: verdana;
+        background:#26BEF0;
+        padding: 10px 50px;
+        color:black;
+    }
+    article img{
+        width: 300px;
+        height: 128px;
+        margin-right: 200px;
+        
+
+    }
+    .imgRedonda{
+        width: 250px;
+        height: 250px;
+        border-radius: 160px;
+        border: 10px solid #999;
+     }
+    .icono{
+        margin: 0px 2px; 
+        width: 24px; 
+        height: 24px;
+    }
+
+     section#banner{
+      width:1520px;
+      height:300px;
+      float:left;background
+      :url("portada.png")no-repeat center center;background-size: cover;
+    }
+    h1{
+        background:#FF3355;
+        padding: 10px 100px;
+        color:black;
+    }
+    nav a{
+    float: right;   
+    margin-top: 5px; 
+    margin-right: 150px;
+    background:white;
+    color:black;
+    }  
+    nav:hover a
+    {
+    color: black;
+    }
+    footer{
+    width:1520px;  
+    height:50px;
+    background:#393939;
+    font-size: 12px; 
+    color: #f5f5f5; 
+    padding: 15px 0px;
+    margin-top: 120px;
+    }
+    body {
+    color: orange; 
+    font-family: Verdana; 
+    background-color: white} 
